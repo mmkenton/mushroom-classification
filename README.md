@@ -1,4 +1,3 @@
-# mushroom-classification
 # 🍄 Mushroom Classification Project
 
 ## Overview
